@@ -67,7 +67,7 @@ Q.Write a menu driven Program for the following operations on Binary Search Tree
 	
 	iv.Exit
 
-LAB7-SORTING
+LAB7-SORTING 
 
 	1.WAP to implement Insertion Sorting Algorithm
 	
